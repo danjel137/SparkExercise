@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06020014-b003-4237-81b8-0ae9ce3acc25" name="Changes" comment="RDDs" />
+    <list default="true" id="06020014-b003-4237-81b8-0ae9ce3acc25" name="Changes" comment="RDDs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/flatmap/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/flatmap/WordCount.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/friend/by/age/FriendsByAge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/friend/by/age/FriendsByAge.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/sudogsofrware/RatingCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/sudogsofrware/RatingCounter.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/total/amount/spend/by/cusomer/TotalAmountSpend.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/total/amount/spend/by/cusomer/TotalAmountSpend.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac44bef5b02501b4fdd1$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac44bef5b02501b4fdd1.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac44bef5b02501b4fdd1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,12 +93,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.TotalAmountSpend">
-    <configuration name="FilterTemp" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="filteredtemperature.FilterTemp" />
-      <module name="ScalaDataProc" />
+    <configuration name="FriendsByAge" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="friend.by.age.FriendsByAge" />
+      <module name="RDDs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="filteredtemperature.*" />
+          <option name="PATTERN" value="friend.by.age.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,22 +106,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FriendsByAge" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="friendsbyage.FriendsByAge" />
+    <configuration name="HelloWorldDataproc" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorldDataproc" />
       <module name="ScalaDataProc" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="friendsbyage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="RatingCounter" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="sudogsofrware.RatingCounter" />
-      <module name="ScalaDataProc" />
+      <module name="RDDs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sudogsofrware.*" />
@@ -121,11 +127,11 @@
       </method>
     </configuration>
     <configuration name="TotalAmountSpend" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="totalAmoutSpendByCusomer.TotalAmountSpend" />
-      <module name="ScalaDataProc" />
+      <option name="MAIN_CLASS_NAME" value="total.amount.spend.by.cusomer.TotalAmountSpend" />
+      <module name="RDDs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="totalAmoutSpendByCusomer.*" />
+          <option name="PATTERN" value="total.amount.spend.by.cusomer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,7 +141,7 @@
     </configuration>
     <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="flatmap.WordCount" />
-      <module name="ScalaDataProc" />
+      <module name="RDDs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="flatmap.*" />
@@ -150,9 +156,9 @@
       <list>
         <item itemvalue="Application.TotalAmountSpend" />
         <item itemvalue="Application.WordCount" />
-        <item itemvalue="Application.FilterTemp" />
-        <item itemvalue="Application.FriendsByAge" />
         <item itemvalue="Application.RatingCounter" />
+        <item itemvalue="Application.HelloWorldDataproc" />
+        <item itemvalue="Application.FriendsByAge" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +199,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669971221534</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="RDDs">
+      <created>1669971266429</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669971266429</updated>
+    </task>
+    <task id="LOCAL-00006" summary="RDDs">
+      <created>1669971406881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669971406881</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

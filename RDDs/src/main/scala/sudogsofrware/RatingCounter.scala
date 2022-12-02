@@ -6,7 +6,7 @@ object RatingCounter extends App {
   //Logger.getLogger("org").setLevel(Level.ERROR)
   val sc=new SparkContext("local[*]","RatingCounter")
 
-  val lines=sc.textFile("C:\\Users\\HP\\IdeaProjects\\ScalaDataProc\\src\\main\\scala\\sudogsofrware\\data.csv")
+  val lines=sc.textFile("C:\\Users\\HP\\IdeaProjects\\ScalaDataProc\\RDDs\\src\\main\\scala\\sudogsofrware\\data.csv")
 
   val ratings=lines.map(x=>x.split(",")(2))
 

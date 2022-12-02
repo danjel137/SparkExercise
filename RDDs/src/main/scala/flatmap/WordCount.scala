@@ -6,7 +6,7 @@ object WordCount {
   def main(args: Array[String]): Unit = {
     val sc=new SparkContext("local[*]","WordCount")
 
-    val input=sc.textFile("C:\\Users\\HP\\IdeaProjects\\ScalaDataProc\\src\\main\\scala\\flatmap\\textRandom.csv")
+    val input=sc.textFile("C:\\Users\\HP\\IdeaProjects\\ScalaDataProc\\RDDs\\src\\main\\scala\\flatmap\\textRandom.csv")
 
     //val words=input.flatMap(x=>x.split(" "))
     val words=input.flatMap(x=>x.split("\\W+"))

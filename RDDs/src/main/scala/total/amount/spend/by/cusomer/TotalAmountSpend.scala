@@ -11,7 +11,7 @@ def extractCustomerPriceParis(line:String):(Int,Float)={
   def main(args: Array[String]): Unit = {
     val sc=new SparkContext("local[*]","TotalAmountSpend")
 
-    val input=sc.textFile("C:\\Users\\HP\\IdeaProjects\\ScalaDataProc\\src\\main\\scala\\totalAmoutSpendByCusomer\\customer.csv")
+    val input=sc.textFile("C:\\Users\\HP\\IdeaProjects\\ScalaDataProc\\RDDs\\src\\main\\scala\\total\\amount\\spend\\by\\cusomer\\customer.csv")
     val mappedInput=input.map(extractCustomerPriceParis)
 
     val totalByCustomer=mappedInput.reduceByKey((x,y)=>x+y)
