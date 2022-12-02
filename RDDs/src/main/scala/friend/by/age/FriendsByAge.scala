@@ -1,4 +1,5 @@
-package friendsbyage
+package friend.by.age
+
 import org.apache.log4j._
 import org.apache.spark.SparkContext
 

@@ -1,4 +1,5 @@
 package sudogsofrware
+
 import org.apache.spark._
 import org.apache.log4j._
 object RatingCounter extends App {

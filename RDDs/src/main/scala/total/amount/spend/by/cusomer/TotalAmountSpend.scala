@@ -1,4 +1,4 @@
-package totalAmoutSpendByCusomer
+package total.amount.spend.by.cusomer
 
 import org.apache.spark.SparkContext
 

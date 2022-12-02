@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RDDs.iml" filepath="$PROJECT_DIR$/.idea/modules/RDDs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RDDs/.idea/modules/RDDs-build.iml" filepath="$PROJECT_DIR$/RDDs/.idea/modules/RDDs-build.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaDataProc.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaDataProc.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ScalaDataProc-build.iml" filepath="$PROJECT_DIR$/.idea/modules/ScalaDataProc-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkSql_DataFrames_DataSet.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkSql_DataFrames_DataSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SparkSql_DataFrames_DataSet/.idea/modules/SparkSql_DataFrames_DataSet-build.iml" filepath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/.idea/modules/SparkSql_DataFrames_DataSet-build.iml" />
     </modules>
   </component>
 </project>
