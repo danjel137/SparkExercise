@@ -5,17 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06020014-b003-4237-81b8-0ae9ce3acc25" name="Changes" comment="RDDs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/flatmap/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/flatmap/WordCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/friend/by/age/FriendsByAge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/friend/by/age/FriendsByAge.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/sudogsofrware/RatingCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/sudogsofrware/RatingCounter.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RDDs/src/main/scala/total/amount/spend/by/cusomer/TotalAmountSpend.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/total/amount/spend/by/cusomer/TotalAmountSpend.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac44bef5b02501b4fdd1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac44bef5b02501b4fdd1.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ac44bef5b02501b4fdd1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/project/target/config-classes/$290b377c766acb3c14a4$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/project/target/config-classes/$290b377c766acb3c14a4.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/project/target/config-classes/$290b377c766acb3c14a4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RDDs/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/target/streams/_global/updateClassifiers/_global/streams/update_cache_2.13/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/filteredtemperature/FilterTemp$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/filteredtemperature/FilterTemp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/filteredtemperature/temperature.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/flatmap/WordCount$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/flatmap/WordCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/flatmap/textRandom.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/friendsbyage/FriendsByAge$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/friendsbyage/FriendsByAge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/friendsbyage/friendsAge.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/sudogsofrware/RatingCounter$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/sudogsofrware/RatingCounter$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/sudogsofrware/RatingCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/sudogsofrware/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/totalAmoutSpendByCusomer/TotalAmountSpend$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/totalAmoutSpendByCusomer/TotalAmountSpend.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/totalAmoutSpendByCusomer/customer.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/dumpStructure/_global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669971406881</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="RDDs">
+      <created>1669972543428</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669972543428</updated>
+    </task>
+    <task id="LOCAL-00008" summary="RDDs">
+      <created>1669972564619</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669972564619</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
