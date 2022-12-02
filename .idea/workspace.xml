@@ -5,35 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06020014-b003-4237-81b8-0ae9ce3acc25" name="Changes" comment="RDDs">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/RDDs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/SparkSql_DataFrames_DataSet.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDDs/.bsp/sbt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDDs/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RDDs/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/.bsp/sbt.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/.idea/modules/SparkSql_DataFrames_DataSet-build.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/build.sbt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/project/build.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SparkSql_DataFrames_DataSet/src/main/scala/crystal/Sql/Spark/SparkSQLDataset.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.bsp/sbt.json" beforeDir="false" afterPath="$PROJECT_DIR$/.bsp/sbt.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sbt.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/incOptions/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/filteredtemperature/FilterTemp.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/filtered/temperature/FilterTemp.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/filteredtemperature/temperature.csv" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/filtered/temperature/temperature.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/flatmap/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/flatmap/WordCount.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/flatmap/textRandom.csv" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/flatmap/textRandom.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/friendsbyage/FriendsByAge.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/friend/by/age/FriendsByAge.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/friendsbyage/friendsAge.csv" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/friend/by/age/friendsAge.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/sudogsofrware/RatingCounter.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/sudogsofrware/RatingCounter.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/sudogsofrware/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/sudogsofrware/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/totalAmoutSpendByCusomer/TotalAmountSpend.scala" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/total/amount/spend/by/cusomer/TotalAmountSpend.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/totalAmoutSpendByCusomer/customer.csv" beforeDir="false" afterPath="$PROJECT_DIR$/RDDs/src/main/scala/total/amount/spend/by/cusomer/customer.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.13/update/update_cache_2.13/output" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669911563336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RDDs">
+      <created>1669970778928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669970778928</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
