@@ -2,12 +2,6 @@ package filtered.temperature
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.SparkContext
-
-
-
-
-
-
 object FilterTemp {
   def parseLine(line:String):(String,String,Float)={
     val fields=line.split(",")
